@@ -1,6 +1,11 @@
 const mongoose = require('mongoose')
 
-mongoose.connect('mongodb://127.0.0.1:27017/chaining', {
-    useNewUrlParser: true,
-})
+mongoose.connect(
+    `mongodb+srv://Lukas3009:hxNxo86FSmcUL2el@cluster0.nsxbz.mongodb.net/chaining`, 
+    {
+      useNewUrlParser: true,
+      useFindAndModify: false,
+      useUnifiedTopology: true
+    }
+  );
 
