@@ -8,7 +8,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lukas Buck",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
