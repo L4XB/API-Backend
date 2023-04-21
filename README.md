@@ -4,7 +4,7 @@
  -> Made with <3 <br>
 
 # Rights 
- chaining. Copyright (C) 2022 Chaining. All rights reserved.
+ chaining. Copyright (C) 2022 Chaining. All rights reserved.<br>
  
  
  #Information
