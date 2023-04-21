@@ -6,5 +6,11 @@
 # Information
  -> Api-Backend made with js and node js
  
+# Setup
+ -> Install Nodejs
+ -> Install MongoDB
+ -> Run MongoDB Server
+ -> start the Application with "npm run dev"
+ 
  
 
